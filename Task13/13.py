@@ -15,3 +15,4 @@ for i in range(length):
     else:
         count = 0
 print(f'\nМаксимальное число теплых дней подряд {max_count}.')
+
